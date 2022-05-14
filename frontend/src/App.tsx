@@ -1,6 +1,8 @@
+import NavBar from "./components/NavBar";
+
 function App() {
   return (
-    <h1>opa</h1>
+    <NavBar/>
   );
 }
 
